@@ -4,4 +4,6 @@
 
 [Лекция 2](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20200908_image_processing.ipynb)  - Обработка изображений при помощи PIL, Scipy Multidimensional Image Processing, skimage.
 
-[Лекция 3](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20200915_OpenCV.ipynb] - Обработка видео при помощи OpenCV.
+[Лекция 3](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20200915_OpenCV.ipynb) - Обработка видео при помощи OpenCV.
+
+[Лекция 4](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture20200929_Classification.ipynb) - Классификация.
