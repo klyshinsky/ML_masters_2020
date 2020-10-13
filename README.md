@@ -9,3 +9,5 @@
 [Лекция 4](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture20200929_Classification.ipynb) - Классификация.
 
 [Лекция 5](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture20201006_DecisionTrees.ipynb) - Деревья принятия решений.
+
+[Лекция 6](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201013_text_processing.ipynb) - Обработка текстов на естественном языке.
