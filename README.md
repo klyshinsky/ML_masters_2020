@@ -11,3 +11,5 @@
 [Лекция 5](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture20201006_DecisionTrees.ipynb) - Деревья принятия решений.
 
 [Лекция 6](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201013_text_processing.ipynb) - Обработка текстов на естественном языке.
+
+[Лекция 7](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201026_Reduce_space.ipynb) - Методы снижения размерности пространства признаков.
