@@ -12,4 +12,6 @@
 
 [Лекция 6](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201013_text_processing.ipynb) - Обработка текстов на естественном языке.
 
-[Лекция 7](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201026_Reduce_space.ipynb) - Методы снижения размерности пространства признаков.
+[Лекция 7_1](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201026_Reduce_space.ipynb) - Методы снижения размерности пространства признаков.
+
+[Лекция 7_2](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201027_requests.ipynb) - Выгрузка данных по протоколу http.
