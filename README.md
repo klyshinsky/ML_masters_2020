@@ -15,3 +15,5 @@
 [Лекция 7_1](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201026_Reduce_space.ipynb) - Методы снижения размерности пространства признаков.
 
 [Лекция 7_2](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201027_requests.ipynb) - Выгрузка данных по протоколу http.
+
+[Лекция 8](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201103-W2V.ipynb) - Wor2Vec. FastText, семантика в векторном пространстве.
