@@ -17,3 +17,5 @@
 [Лекция 7_2](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201027_requests.ipynb) - Выгрузка данных по протоколу http.
 
 [Лекция 8](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201103-W2V.ipynb) - Wor2Vec. FastText, семантика в векторном пространстве.
+
+[Лекция 9](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201110_Natural_Neuron_Networks.ipynb] Естественные нейронные сети.
