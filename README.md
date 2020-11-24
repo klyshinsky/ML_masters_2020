@@ -21,3 +21,5 @@
 [Лекция 9](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201110_Natural_Neuron_Networks.ipynb] Естественные нейронные сети.
 
 [Лекция 10](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20200324_Ensamble.ipynb) Ансемблирование (Спасибо Михаилу Трофимову).
+
+[Лекция 11](https://github.com/klyshinsky/ML_masters_2020/blob/master/Lecture_20201124_Neural_Networks_Dense_CNN_RNN.ipynb) Функции потерь, сверточные и рекуррентные нейронные сети.
